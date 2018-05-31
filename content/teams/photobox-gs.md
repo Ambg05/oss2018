@@ -9,7 +9,7 @@ twitter         :
 website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 status          :
-should attend:
+sessions:
     - Creating a Steady-State Hypothesis
     - GS Detect Daily Scrum (Mon)
     - Hands on Chaos Experiments
