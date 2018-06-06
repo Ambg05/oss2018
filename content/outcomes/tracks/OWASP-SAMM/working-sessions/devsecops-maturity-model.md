@@ -32,6 +32,13 @@ A group discussion agreed on the following:
 - Bidirectional Collaboration
 - Control Prioritisation
 
+The dimensions of a DevSecOps Maturity Model were also discussed:
+- Test and Verification
+- Information Gathering
+- Infrastructure
+- Culture and Organisation
+- Build and Deployment
+
 
 #### Which level of detail does a DevSecOps Maturity Model provide? 
 On a scale ranging between a high of **'SAMM: Utilize automated security testing tools'**, and a low being **'Use OWASP Dependency Check every night'** participants were asked to select a level of detail appropriate for the DSOMM
